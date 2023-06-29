@@ -387,3 +387,24 @@ footer {
 .close-button:hover {
   opacity: 0.7; /* Apply fade effect when hovered over */
 }
+
+.confirmation-box {
+  display: none;
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
+}
+/* Add styles for the confirmation box */
+.confirmation-box {
+  display: none;
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
+}
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+}
